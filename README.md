@@ -1,4 +1,5 @@
-### Olà, meu Nome é Bezerlay 👋
+### Olà, meu Nome é Bezerlay 
+Estudante de Analise e desenvolvimento de sistemas
 
 <!--
 **bezerlay/bezerlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
