@@ -1,10 +1,11 @@
 ### Olà, meu Nome é Bezerlay 
 Estudante de Analise e desenvolvimento de sistemas
 
-Atualmente estudor Programaçao com As Linguagens:
+Atualmente estudando Programaçao com As Linguagens:
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />          
-<img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-<img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img src="https://icongr.am/devicon/javascript-original.svg?size=51&color=currentColor" />
+<img src="https://icongr.am/devicon/csharp-original.svg?size=51&color=currentColor" />          
+<img src="https://icongr.am/devicon/html5-original.svg?size=51&color=currentColor" />
+<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=51&color=currentColor" />
           
     
